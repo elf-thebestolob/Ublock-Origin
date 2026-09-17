@@ -231,4 +231,4 @@ uBlock Origin is offered as a complete free version with all features and update
 Don't wait any longer! Download uBlock Origin today and enjoy a faster, ad-free browsing experience.
 
 ---
-**Last updated:** 2026-09-16 22:51:05 UTC
+**Last updated:** 2026-09-17 01:13:59 UTC
